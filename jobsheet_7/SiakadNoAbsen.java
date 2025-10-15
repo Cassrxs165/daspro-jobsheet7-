@@ -1,3 +1,4 @@
+package jobsheet_7;
 import java.util.Scanner;
 public class SiakadNoAbsen {
     public static void main (String[]args){
